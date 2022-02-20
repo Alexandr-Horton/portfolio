@@ -17,8 +17,8 @@ page: https://alexandr-horton.github.io/blrx-bootstrap/ <br>
 desc: html css jqury bootstrap responsive 
 
 src: https://github.com/Alexandr-Horton/grcht.git <br>
-page: https://alexandr-horton.github.io/blrx-bootstrap/ <br>
-desc: html css jqury bootstrap responsive 
+page: https://alexandr-horton.github.io/grcht/ <br>
+desc: html css js gulp-webpack
 
 <h2>JAVASCRIPT</h2>
 
