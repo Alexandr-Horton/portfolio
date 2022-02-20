@@ -10,9 +10,13 @@
 
 src: https://github.com/Alexandr-Horton/logistic.git <br>
 page: https://alexandr-horton.github.io/logistic/ <br>
-desc: html css jqury slick-slider responsive 
+desc: A Fully Responsive website built using html css jqury slick-slider 
 
 src: https://github.com/Alexandr-Horton/blrx-bootstrap.git <br>
+page: https://alexandr-horton.github.io/blrx-bootstrap/ <br>
+desc: html css jqury bootstrap responsive 
+
+src: https://github.com/Alexandr-Horton/grcht.git <br>
 page: https://alexandr-horton.github.io/blrx-bootstrap/ <br>
 desc: html css jqury bootstrap responsive 
 
