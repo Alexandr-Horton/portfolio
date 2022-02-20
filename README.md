@@ -18,6 +18,10 @@ desc: html css jqury bootstrap responsive
 
 <h2>JAVASCRIPT</h2>
 
+src: https://github.com/Alexandr-Horton/shape-js.git <br>
+page: https://alexandr-horton.github.io/click-js/ <br>
+desc: html css js
+
 src: https://github.com/Alexandr-Horton/click-js.git <br>
 page: https://alexandr-horton.github.io/click-js/ <br>
 desc: html css js
@@ -37,3 +41,4 @@ src: https://github.com/Alexandr-Horton/blog-js.git <br>
 page: https://blog-js-eb39c.firebaseapp.com/ <br>
 desc: html css js
 <h5>and jquery <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></h5>
+https://github.com/Alexandr-Horton/shape-js.git
