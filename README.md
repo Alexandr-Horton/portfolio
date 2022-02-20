@@ -19,7 +19,7 @@ desc: html css jqury bootstrap responsive
 <h2>JAVASCRIPT</h2>
 
 src: https://github.com/Alexandr-Horton/shape-js.git <br>
-page: https://alexandr-horton.github.io/click-js/ <br>
+page: https://alexandr-horton.github.io/shape-js/ <br>
 desc: html css js
 
 src: https://github.com/Alexandr-Horton/click-js.git <br>
