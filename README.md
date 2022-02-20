@@ -17,6 +17,10 @@ desc: html css jqury bootstrap responsive
 
 <h2>JAVASCRIPT</h2>
 
+src: https://github.com/Alexandr-Horton/click-js.git <br>
+page: https://alexandr-horton.github.io/click-js/ <br>
+desc: html css js
+
 src: https://github.com/Alexandr-Horton/todo-js.git <br>
 page: https://alexandr-horton.github.io/todo-js/ <br>
 desc: html css js
