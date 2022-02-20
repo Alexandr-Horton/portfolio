@@ -6,7 +6,6 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-<h2>HTML, CSS</h2>
 
 src: https://github.com/Alexandr-Horton/logistic.git <br>
 page: https://alexandr-horton.github.io/logistic/ <br>
@@ -36,3 +35,4 @@ desc: html css js
 src: https://github.com/Alexandr-Horton/blog-js.git <br>
 page: https://blog-js-eb39c.firebaseapp.com/ <br>
 desc: html css js
+and olso jquery
