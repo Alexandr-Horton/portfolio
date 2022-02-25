@@ -7,10 +7,12 @@ I have a strong desire to work in a development team and a great company, work o
 
 Love studying and learn something new. <br>
 My english level - B1 <br>
-Telegram - https://t.me/hrtnTg <br>
-E-mail - aleksandr.horton@gmail.com <br>
-LinkedIn - https://www.linkedin.com/in/alexandr-horton-750154202/ <br>
 
+<ul>
+<li>Telegram - https://t.me/hrtnTg </li>
+<li>E-mail - aleksandr.horton@gmail.com </li>
+<li>LinkedIn - https://www.linkedin.com/in/alexandr-horton-750154202/ </li>
+</ul>
 
 
 
