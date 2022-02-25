@@ -2,8 +2,8 @@
 26 y.o., Krasnodarskiy kray
 
 I'm self-taught Frontend developer 
-I am currently actively studying react.js
-Love studying and learn something new.
+I am currently actively studying react.js <br>
+Love studying and learn something new. <br>
 My english level - B1
 
 <h2>Tools I use:</h2>
