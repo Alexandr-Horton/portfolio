@@ -40,7 +40,7 @@ desc: html css js
 
 src: https://github.com/Alexandr-Horton/blog-js.git <br>
 page: https://blog-js-eb39c.firebaseapp.com/ <br>
-desc: html css js firebase
+desc: html css js firebase babel
 
 <h2>REACT, REDUX</h2>
 
