@@ -3,7 +3,7 @@
 
 I'm self-taught Frontend developer 
 I am currently actively studying react.js
-
+Love studying and learn something new.
 My english level - B1
 
 <h2>Tools I use:</h2>
