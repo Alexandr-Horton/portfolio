@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alex+Horton)](https://git.io/typing-svg) <br>
 
+
+<h2>Tools I use:</h2>
+
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
@@ -18,7 +21,7 @@ desc: Responsive website made with bootstrap and jqury (and of course html css)
 
 src: https://github.com/Alexandr-Horton/grcht.git <br>
 page: https://alexandr-horton.github.io/grcht/ <br>
-desc: html scss js gulp-webpack responsive page
+desc: html scss js gulp-webpack responsive page Maket from frigma
 
 <h2>JAVASCRIPT</h2>
 
