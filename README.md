@@ -6,7 +6,7 @@ I am currently actively studying react.js <br>
 I have a strong desire to work in a development team and a great company, work on real project.<br>
 Love studying and learn something new. <br>
 
-My english level - B1 <br>
+My english level - B1-b2 <br>
 
 <ul>
 <li>Telegram - https://t.me/hrtnTg </li>
