@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alex+Horton)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alexandr+Horton)](https://git.io/typing-svg) <br>
+26 y.o., Krasnodarskiy kray
 
+I'm self-taught Frontend developer 
+I am currently actively studying react.js
+
+My english level - B1
 
 <h2>Tools I use:</h2>
 
@@ -10,6 +15,8 @@
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/46/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/>
+
+<h3>There are my pet-project</h3>
 
 src: https://github.com/Alexandr-Horton/logistic.git <br>
 page: https://alexandr-horton.github.io/logistic/ <br>
