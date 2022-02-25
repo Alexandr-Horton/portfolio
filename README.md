@@ -26,7 +26,7 @@ My english level - B1-b2 <br>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/46/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/>
 
-<h3>There are my pet-project</h3>
+<h3>There are my pet-projects</h3>
 
 src: https://github.com/Alexandr-Horton/logistic.git <br>
 page: https://alexandr-horton.github.io/logistic/ <br>
