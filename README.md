@@ -7,6 +7,11 @@ I have a strong desire to work in a development team and a great company, work o
 
 Love studying and learn something new. <br>
 My english level - B1
+https://t.me/hrtnTg
+
+<a href="https://t.me/hrtnTg"><img src="https://img.icons8.com/ios-glyphs/30/4a90e2/telegram-app.png"/></a>
+
+
 
 <h2>Tools I use:</h2>
 
