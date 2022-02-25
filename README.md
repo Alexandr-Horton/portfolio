@@ -3,6 +3,8 @@
 
 I'm self-taught Frontend developer 
 I am currently actively studying react.js <br>
+I have a strong desire to work in a development team and a great company, work on real project.
+
 Love studying and learn something new. <br>
 My english level - B1
 
