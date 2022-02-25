@@ -6,8 +6,10 @@ I am currently actively studying react.js <br>
 I have a strong desire to work in a development team and a great company, work on real project.
 
 Love studying and learn something new. <br>
-My english level - B1
-https://t.me/hrtnTg
+My english level - B1 <br>
+Telegram - https://t.me/hrtnTg
+E-mail - aleksandr.horton@gmail.com
+LinkedIn - https://www.linkedin.com/in/alexandr-horton-750154202/
 
 <a href="https://t.me/hrtnTg"><img src="https://img.icons8.com/ios-glyphs/30/4a90e2/telegram-app.png"/></a>
 
