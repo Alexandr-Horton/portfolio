@@ -43,6 +43,6 @@ desc: html css js firebase
 
 src: https://github.com/Alexandr-Horton/tesla-clone.git <br>
 page: <br>
-desc: html css React.js 
+desc: html css React Redux
 <h5>and jquery <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></h5>
 
