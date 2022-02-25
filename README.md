@@ -10,7 +10,7 @@
 
 src: https://github.com/Alexandr-Horton/logistic.git <br>
 page: https://alexandr-horton.github.io/logistic/ <br>
-desc: A Fully Responsive website built using html, css, jqury, slick-slider and aos.js. It has multiple pages
+desc: A Fully Responsive website built using html, css, jqury, slick-slider and aos.js. It has multiple pages and went trough validation.
 
 src: https://github.com/Alexandr-Horton/blrx-bootstrap.git <br>
 page: https://alexandr-horton.github.io/blrx-bootstrap/ <br>
