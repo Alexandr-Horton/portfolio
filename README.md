@@ -60,7 +60,7 @@ desc: blog with firebase html css js babel
 
 src: https://github.com/Alexandr-Horton/excel-js.git <br>
 page: comming soon <br>
-desc: Excel Spreadsheet with minimal functionality babel, Eslint, webpack, scss, custom framework
+desc: Excel Spreadsheet with minimal functionality. babel, Eslint, webpack, scss, custom framework
 
 <h2>REACT, REDUX</h2>
 
