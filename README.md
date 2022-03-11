@@ -52,15 +52,15 @@ desc: html css js
 
 src: https://github.com/Alexandr-Horton/todo-js.git <br>
 page: https://alexandr-horton.github.io/todo-js/ <br>
-desc: todo-list html css js
+desc: simple todo-list on pure js, html, css
 
 src: https://github.com/Alexandr-Horton/blog-js.git <br>
 page: https://blog-js-eb39c.firebaseapp.com/ <br>
-desc: blog with firebase html css js babel
+desc: blog on native js with firebase, html, css, babel
 
 src: https://github.com/Alexandr-Horton/excel-js.git <br>
 page: https://alexandr-horton.github.io/excel-js/ <br>
-desc: Excel Spreadsheet with minimal functionality. babel, Eslint, webpack, scss, custom framework(redux,router, components...), unit-tests
+desc: Excel Spreadsheet with minimal functionality. babel, Eslint, webpack, scss, custom framework(redux, router, components...), unit-tests
 
 <h2>REACT, REDUX</h2>
 
