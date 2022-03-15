@@ -67,5 +67,9 @@ desc: Excel Spreadsheet with minimal functionality. babel, Eslint, webpack, scss
 src: https://github.com/Alexandr-Horton/tesla-clone.git <br>
 page: <br>
 desc: html css React Redux
+
+src: https://github.com/Alexandr-Horton/weather-react-api.git <br>
+page: <br>
+desc: SPA with https://openweathermap.org/api, react router, hocs, unit-test(enzyme)
 <h5>and Jquery <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></h5>
 
