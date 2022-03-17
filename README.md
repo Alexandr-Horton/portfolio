@@ -1,12 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alexandr+Horton)](https://git.io/typing-svg) <br>
-26 y.o., Krasnodarskiy kray
-
-I'm self-taught Frontend developer 
-I am currently actively studying react.js <br>
-I have a strong desire to work in a development team and a great company, work on real project.<br>
-Love studying and learn something new. <br>
-
-My english level - B1-b2 <br>
 
 <ul>
 <li>Telegram - https://t.me/hrtnTg </li>
