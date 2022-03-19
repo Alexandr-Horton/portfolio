@@ -58,7 +58,7 @@ desc: Excel Spreadsheet with minimal functionality. babel, Eslint, webpack, scss
 
 src: https://github.com/Alexandr-Horton/tesla-clone.git <br>
 page: <br>
-desc: html css React Redux
+desc: html, css, React, Redux, styled-component
 
 src: https://github.com/Alexandr-Horton/weather-react-api.git <br>
 page: <br>
