@@ -63,5 +63,10 @@ desc: html css React Redux
 src: https://github.com/Alexandr-Horton/weather-react-api.git <br>
 page: <br>
 desc: SPA with https://openweathermap.org/api, react router, hocs, unit-test(enzyme)
+
+src: https://github.com/Alexandr-Horton/github-search-react.git <br>
+page: <br>
+desc: SPA with git-api, which looing for git users. router, sass, bootsrap, axios
+
 <h5>and Jquery <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></h5>
 
