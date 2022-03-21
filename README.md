@@ -68,5 +68,9 @@ src: https://github.com/Alexandr-Horton/github-search-react.git <br>
 page: https://blissful-mirzakhani-70f843.netlify.app/ <br>
 desc: SPA with git-api, which looing for git users. router, sass, bootsrap, axios
 
+src: https://github.com/Alexandr-Horton/six-cities.git <br>
+page: https://sharp-shannon-365be8.netlify.app/ <br>
+desc: SPA, axios, router, redux, TS
+
 <h5>and Jquery <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></h5>
 
