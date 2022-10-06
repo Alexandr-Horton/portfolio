@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alexandr+Horton)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alexander+Horton)](https://git.io/typing-svg) <br>
 
 <ul>
 <li>Telegram - https://t.me/hrtn359 </li>
