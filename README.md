@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F765D6&lines=Hi%2C+I'm+Alexander+Horton)](https://git.io/typing-svg) <br>
 
 <ul>
-<li>Telegram - https://t.me/hrtn359 </li>
+<li>Telegram - https://t.me/ahorton </li>
 <li>E-mail - aleksandr.horton@gmail.com </li>
 <li>LinkedIn - https://www.linkedin.com/in/alexandr-horton-750154202/ </li>
 </ul>
