@@ -79,7 +79,8 @@ desc: SPA, axios, router, redux, TS
 
 src: https://github.com/Alexandr-Horton/prod_project <br>
 page:  <br>
-desc: A complete description of the project can be found in the Readme.
+desc: Architectural methodology - Feature-Sliced Design. 
+A complete description of the project can be found in the Readme.
 
 
 
