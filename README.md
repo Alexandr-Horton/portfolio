@@ -23,6 +23,7 @@
 <img width="48" height="48" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="cy"/>
 <img width="48" height="48" src="https://asset.brandfetch.io/idUvi7-4xj/idMzkPrDqo.png" alt="storybook"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
+<img width="48" height="48" src="https://feature-sliced.design/img/brand/logo-primary.png" alt="fsd"/>
 
 
 
