@@ -20,7 +20,7 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/46/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/> 
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/34/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/34/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/vite.png" alt="vite"/>
 
 <h3>There are my pet-projects</h3>
 
@@ -71,6 +71,10 @@ desc: SPA with git-api, which looking for git users. router, sass, bootsrap, axi
 src: https://github.com/Alexandr-Horton/six-cities.git <br>
 page: https://sharp-shannon-365be8.netlify.app/ <br>
 desc: SPA, axios, router, redux, TS
+
+src: https://github.com/Alexandr-Horton/prod_project <br>
+page:  <br>
+desc: A complete description of the project can be found in the Readme.
 
 
 
