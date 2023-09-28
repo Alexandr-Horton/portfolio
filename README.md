@@ -13,14 +13,15 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/> 
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img width="48" height="48" src="https://img.icons8.com/dusk/64/babel.png" alt="babel"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-gulp-an-open-source-javascript-toolkit-by-fractal-innovations-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/46/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/> 
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/34/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/vite.png" alt="vite"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/34/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/vite.png" alt="vite"/><img width="48" height="48" src="https://img.icons8.com/color/48/eslint.png" alt="eslint"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/ios/50/solidity.png" alt="solidity"/><img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+
 
 <h3>There are my pet-projects</h3>
 
